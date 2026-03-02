@@ -8,7 +8,7 @@ I am a **Data Analyst** and **Game Designer** with a background in **Audio-visua
 * [cite_start]**Tools:** Git/GitHub, HTML, Media Production Software. [cite: 10, 33, 38]
 
 ### 🚀 Featured Projects
-* **Data Dash: System Restore:** A high-paced arcade game built in Unity where I implemented dynamic scaling difficulty and complex C# logic. 🎮
+* **Data Janitor: System Restore:** A high-paced arcade game built in Unity where I implemented dynamic scaling difficulty and complex C# logic. 🎮
 * **Project Management Dashboards:** Advanced Excel solutions for tracking large-scale infrastructure deployments (e.g., Econocom digital signage projects). [cite_start]📊 [cite: 25]
 
 ### 📫 Connect with me
