@@ -4,12 +4,12 @@ I am a **Data Analyst** and **Game Designer** with a background in **Audio-visua
 
 ### 🛠️ Tech Stack & Skills
 * **Data Analysis:** SQL, Power BI, Advanced Excel (Power Query, DAX), KPI Interpretation. 
-* **Game Development:** C#, Unity (2D/3D), Game Mechanics, Level Design. [cite: 10, 34, 35]
-* **Tools:** Git/GitHub, HTML, Media Production Software. [cite: 10, 33, 38]
+* **Game Development:** C#, Unity (2D/3D), Game Mechanics, Level Design. 
+* **Tools:** Git/GitHub, HTML, Media Production Software. 
 
 ### 🚀 Featured Projects
 * **Data Janitor: System Restore:** A high-paced arcade game built in Unity where I implemented dynamic scaling difficulty and complex C# logic. 🎮
-* **Project Management Dashboards:** Advanced Excel solutions for tracking large-scale infrastructure deployments (e.g., Econocom digital signage projects). [cite_start]📊 [cite: 25]
+* **Project Management Dashboards:** Advanced Excel solutions for tracking large-scale infrastructure deployments (e.g., Econocom digital signage projects).📊 
 
 ### 📫 Connect with me
 * **LinkedIn:** [https://www.linkedin.com/in/antonio-jes%C3%BAs-romero-m%C3%A1rquez-8396981a3/] [cite: 5]
