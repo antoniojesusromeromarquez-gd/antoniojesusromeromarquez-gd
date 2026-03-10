@@ -12,7 +12,7 @@ I am a **Data Analyst** and **Game Designer** with a background in **Audio-visua
 * **Project Management Dashboards:** Advanced Excel solutions for tracking large-scale infrastructure deployments (e.g., Econocom digital signage projects). [cite_start]📊 [cite: 25]
 
 ### 📫 Connect with me
-**LinkedIn:** [https://www.linkedin.com/in/antonio-jes%C3%BAs-romero-m%C3%A1rquez-8396981a3/] [cite: 5]
-* **Portfolio / Itch.io:** [https://annaan00.itch.io/] [cite: 6]
+* **LinkedIn:** [https://www.linkedin.com/in/antonio-jes%C3%BAs-romero-m%C3%A1rquez-8396981a3/] [cite: 5]
+* **Portfolio: [https://annaan00.carrd.co/]
 
 [cite_start]*"Passionate about the intersection of data, technology, and interactive storytelling."* [cite: 21]
