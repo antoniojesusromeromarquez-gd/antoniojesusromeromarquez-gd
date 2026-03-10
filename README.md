@@ -3,7 +3,7 @@
 I am a **Data Analyst** and **Game Designer** with a background in **Audio-visual Communication**. I specialize in turning complex data into actionable insights and creating immersive digital experiences.
 
 ### 🛠️ Tech Stack & Skills
-***Data Analysis:** SQL, Power BI, Advanced Excel (Power Query, DAX), KPI Interpretation. [cite: 8, 9, 10, 11]
+* **Data Analysis:** SQL, Power BI, Advanced Excel (Power Query, DAX), KPI Interpretation. 
 * **Game Development:** C#, Unity (2D/3D), Game Mechanics, Level Design. [cite: 10, 34, 35]
 * **Tools:** Git/GitHub, HTML, Media Production Software. [cite: 10, 33, 38]
 
