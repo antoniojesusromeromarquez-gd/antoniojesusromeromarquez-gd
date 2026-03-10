@@ -13,6 +13,6 @@ I am a **Data Analyst** and **Game Designer** with a background in **Audio-visua
 
 ### 📫 Connect with me
 * **LinkedIn:** [https://www.linkedin.com/in/antonio-jes%C3%BAs-romero-m%C3%A1rquez-8396981a3/] [cite: 5]
-* **Portfolio: [https://annaan00.carrd.co/]
+* **Portfolio:** [https://annaan00.carrd.co/]
 
-[cite_start]*"Passionate about the intersection of data, technology, and interactive storytelling."* [cite: 21]
+*"Passionate about the intersection of data, technology, and interactive storytelling."*
